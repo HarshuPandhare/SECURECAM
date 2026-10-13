@@ -10,7 +10,7 @@ An AI-powered security monitoring web application built using **Python, FastAPI,
 
 ### Home Page
 
-![SECURECAM Home Page](screenshots/homepage.png)
+![SECURECAM Home Page](Screenshots/home1.png)
 
 ### Object Detection Interface
 
