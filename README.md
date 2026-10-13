@@ -14,11 +14,11 @@ An AI-powered security monitoring web application built using **Python, FastAPI,
 
 ### Object Detection Interface
 
-![Object Detection Interface](screenshots/detection.png)
+![Object Detection Interface](Screenshots/home.png)
 
 ### Detection Results
 
-![Detection Results](screenshots/results.png)
+![Detection Results](Screenshots/results.png)
 
 ---
 
