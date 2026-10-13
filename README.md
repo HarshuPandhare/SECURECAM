@@ -1,4 +1,4 @@
-# SECURECAM — AI-Powered Security Camera
+# SECURECAM — ML-Powered Security Camera
 
 An AI-powered security monitoring web application built using **Python, FastAPI, and YOLO object detection**. SECURECAM provides a web interface for running object detection using a custom-trained model.
 
